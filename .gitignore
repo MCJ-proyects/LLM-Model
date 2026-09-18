@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tests and tools
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+.env.*
+
+# Operating systems
+.DS_Store
+
+# Private chapter notes
+/ch[0-9][0-9]/README.md
